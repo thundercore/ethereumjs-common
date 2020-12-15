@@ -77,6 +77,7 @@ library supported:
 - `petersburg` (aka `constantinopleFix`, apply together with `constantinople`)
 - `istanbul`
 - `muirGlacier`
+- `pala`
 
 ## Future Hardforks
 

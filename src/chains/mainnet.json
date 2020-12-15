@@ -73,6 +73,12 @@
       "block": 9200000,
       "consensus": "pow",
       "finality": null
+    },
+    {
+      "name": "pala",
+      "block": 9200001,
+      "consensus": "pow",
+      "finality": null
     }
   ],
   "bootstrapNodes": [
